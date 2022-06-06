@@ -1,0 +1,13 @@
+C:\Users\darda\source\repos\proiect\proiect\bin\Debug\proiect.exe.config
+C:\Users\darda\source\repos\proiect\proiect\bin\Debug\proiect.exe
+C:\Users\darda\source\repos\proiect\proiect\bin\Debug\proiect.pdb
+C:\Users\darda\source\repos\proiect\proiect\obj\Debug\proiect.csproj.AssemblyReference.cache
+C:\Users\darda\source\repos\proiect\proiect\obj\Debug\proiect.csproj.SuggestedBindingRedirects.cache
+C:\Users\darda\source\repos\proiect\proiect\obj\Debug\proiect.Form1.resources
+C:\Users\darda\source\repos\proiect\proiect\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\darda\source\repos\proiect\proiect\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\darda\source\repos\proiect\proiect\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\darda\source\repos\proiect\proiect\obj\Debug\proiect.exe
+C:\Users\darda\source\repos\proiect\proiect\obj\Debug\proiect.pdb
+C:\Users\darda\source\repos\proiect\proiect\obj\Debug\proiect.Form2.resources
+C:\Users\darda\source\repos\proiect\proiect\obj\Debug\proiect.Form3.resources
